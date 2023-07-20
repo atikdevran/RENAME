@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_FUGR" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <AREAT>ödev fonksiyon gurupları</AREAT>
+   <INCLUDES>
+    <SOBJ_NAME>/1BCDWB/IQG000000000023DAT</SOBJ_NAME>
+    <SOBJ_NAME>/1BCDWB/IQG000000000023SSCR</SOBJ_NAME>
+    <SOBJ_NAME>/1BCDWB/IQG000000000023SSCRAT</SOBJ_NAME>
+    <SOBJ_NAME>LZAD_FG_HOMEWORKSTOP</SOBJ_NAME>
+    <SOBJ_NAME>SAPLZAD_FG_HOMEWORKS</SOBJ_NAME>
+   </INCLUDES>
+   <FUNCTIONS>
+    <item>
+     <FUNCNAME>ZAD_ASAL_TEK_CIFT</FUNCNAME>
+     <SHORT_TEXT>asal tek</SHORT_TEXT>
+    </item>
+    <item>
+     <FUNCNAME>ZAD_RANDOM_COUNTS</FUNCNAME>
+     <SHORT_TEXT>asal tek</SHORT_TEXT>
+    </item>
+   </FUNCTIONS>
+  </asx:values>
+ </asx:abap>
+</abapGit>
